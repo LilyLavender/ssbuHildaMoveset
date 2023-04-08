@@ -1,3 +1,3 @@
-Here you can take a look at all of my terrible code for my Hilda mod :D
+Source code for my ssbu Hilda mod
 
 Any questions, please message me on discord at LilyLambda#6258
