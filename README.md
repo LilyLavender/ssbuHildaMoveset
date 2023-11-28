@@ -1,3 +1,3 @@
-Source code for my ssbu Hilda mod
+Source code for the Hilda moveset for Smash Ultimate
 
-Any questions, please message me on discord at LilyLambda#6258
+Any questions, please message me on discord at @LilyLambda
