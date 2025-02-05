@@ -1,4 +1,4 @@
 # Hilda Moveset
-Source code for the Hilda moveset for Smash Ultimate
+Source code for the [SSBU Hilda Moveset mod](https://gamebanana.com/mods/361574)
 
-Any questions, please message me on discord at @LilyLambda
+Any questions? Dm me on Discord @LilyLambda
